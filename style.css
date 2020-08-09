@@ -1,0 +1,33 @@
+#btn-next{
+    color: black !important;
+}
+
+.card-text {
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+.card-text:hover,
+.active{
+    background: #0f0c29; 
+    background: -webkit-linear-gradient(to right, #3c3ca7, #1c08f5, #7e78b4);
+    background: linear-gradient(to right, #58a76c, #2b3d63, #1d184b);
+    color: #fff;
+}
+
+
+body{
+    text-align: center;
+}
+
+#btn-next,#btn-start{
+    background-color: rgb(147, 86, 218);
+}
+.wrapper, .wrap{
+    margin: 50px;
+
+  
+}
+h5{
+    font-size: 40px;
+}
